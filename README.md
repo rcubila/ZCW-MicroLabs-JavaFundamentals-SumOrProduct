@@ -24,3 +24,8 @@ No Unit Test
 2. Create separate functions for Sum and Product
 3. Compute for Sum/Product
 4. Print final output to screen
+
+
+
+## Whats Next?
+* The next lab is located [here](https://github.com/Zipcoder/ZCW-MicroLabs-OOP-SumOrProduct).
