@@ -8,6 +8,10 @@
 * **Constraint:** No [Guassian wizardry](http://mathandmultimedia.com/2010/09/15/sum-first-n-positive-integers/) !
 
 
+## Unit Test
+
+No Unit Test
+
 
 
 ## Whats Next?
