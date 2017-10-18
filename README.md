@@ -1,4 +1,4 @@
-# ZCW-MicroLabs-OOP-SumOrProduct
+# ZCW-MicroLabs-JavaFundamentals-SumOrProduct
 
 # Sum or Product
 
