@@ -1,27 +1,35 @@
 public class OperationSelector {
 
-    public void sumCalculation(int value){
 
-        int sum = 0;
+    public int sumFrom1ToUserInput(int number) {
 
-        for(int i = 0;i<=value;i++){
+        int result = 0;
 
-            sum += i;
+        for(int i = 0; i <= number;i++){
+            result+= i;
         }
-
-        System.out.println(sum);
+        return result;
     }
 
-    public void productCalculation(int value){
+    public int sumFrom1ToUserInput2(int number){
+        int result = 0;
+        int i = 1;
 
-        int sum = 0;
-
-        for(int i = 0;i<=value;i++){
-
-            sum *= i;
+        while(result <= number){
+            result+= i;
+            i++;
         }
+        return result;
+    }
 
-        System.out.println(sum);
+    public int productFrom1ToUserInput(int number) {
+
+        int result = 1;
+
+        for(int i = 1; i <= number;i++){
+            result*= i;
+        }
+        return result;
     }
 
 }
